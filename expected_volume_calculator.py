@@ -12,7 +12,7 @@ while True:
 	try:
 		L_eff = (L - PI*((2*PI*f_111/c)**2-(X_mnp/r)**2)**(-.5))
 	except TypeError: breakpoint()
-	exp_vol = PI*r**2*L_eff*1e3
+	exp_vol = PI*r**2*L_eff*1e3 # for offset: subtract 0.073603
 	print(f"Expected volume: {exp_vol} L\n")
 
 
