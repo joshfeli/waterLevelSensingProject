@@ -11,4 +11,6 @@ At a high-level, our aim was to develop sensing technology toward creating a sma
 
 Many thanks to the instructors of 6.2300 for providing inspiriation for our final project. We based this off of the final lab assignment for the course, and the professors walked us through a new way to think about the components involved in that lab.
 
-With that, we present to you our project: A water-level sensing bottle.
+The project proposal and the final report are both linked in this repository.
+
+Thank you!
